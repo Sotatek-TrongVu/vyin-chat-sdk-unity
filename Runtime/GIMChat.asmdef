@@ -1,0 +1,21 @@
+{
+    "name": "GIMChat",
+    "rootNamespace": "Gamania.GIMChat",
+    "references": [
+        "Newtonsoft.Json-for-Unity",
+        "NativeWebSocket"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false,
+    "internalsVisibleTo": [
+        "GIMChat.Tests",
+        "GIMChat.Editor.Tests"
+    ]
+}

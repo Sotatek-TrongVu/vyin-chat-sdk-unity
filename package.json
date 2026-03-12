@@ -1,0 +1,29 @@
+{
+  "name": "com.gamania.gim",
+  "displayName": "Vyin Chat",
+  "version": "1.0.0",
+  "unity": "2022.3",
+  "unityRelease": "0f1",
+  "description": "Vyin Chat SDK for Unity.",
+  "keywords": [
+    "chat"
+  ],
+  "author": {
+    "name": "Vyin Chat",
+    "email": "hello@vyin.chat",
+    "url": "https://vyin.chat/"
+  },
+  "dependencies": {
+    "com.unity.nuget.newtonsoft-json": "3.2.2"
+  },
+  "samples": [
+    {
+      "displayName": "Vyin Chat Sample",
+      "description": "A sample scene showcasing Vyin Chat SDK features.",
+      "path": "Samples~"
+    }
+  ],
+  "documentationUrl": "https://github.com/vyinchat/vyin-chat-sdk-unity",
+  "changelogUrl": "https://github.com/vyinchat/vyin-chat-sdk-unity/blob/main/CHANGELOG.md",
+  "licensesUrl": "https://github.com/vyinchat/vyin-chat-sdk-unity/blob/main/LICENSE.md"
+}
